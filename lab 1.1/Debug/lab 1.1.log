@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Asus\Desktop\ООП 1.1\lab 1.1\Source.cpp(8,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Asus\Desktop\ООП 1.1\lab 1.1\Source.cpp(24,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Triangle.cpp
+  Создание кода...
+  lab 1.1.vcxproj -> C:\Users\Asus\Desktop\ООП 1.1\lab 1.1\Debug\lab 1.1.exe
